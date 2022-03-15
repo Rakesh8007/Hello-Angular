@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /var/www/html/index.html
+    destination: /home/ubuntu@34.226.212.45/Hello-Angular/src/index.html
